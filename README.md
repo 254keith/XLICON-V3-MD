@@ -11,7 +11,7 @@
 >XLICON-V3-MD is based on :
 >- [Cheems V10](https://github.com/DGXeon) by [DGXeon](https://github.com/DGXeon) (License: Apache License 2.0)
 >
-> :octocat: Don't forget to check out! :point_right: [Cheems V10](https://github.com/DGXeon)
+> :unicorn: Don't forget to check out! :point_right: [Cheems V10](https://github.com/DGXeon)
 </p>
 
 ## 🌟 `Bot Intro and Features`
@@ -57,10 +57,14 @@ Thanks to all contributors! 🚀
 - [`Buy ME A Coffee ☕ `](https://i.ibb.co/SBXWb1R/donate.jpg)
 
 <p align="left">
-Scan qr code from the above button, u can pay through Buy Me A Coffee.
+Scan qr code from the above button, u can pay through Buy Me A Coffee...
 </p>
 
+- [`Support Me On Patreon ☕ `](https://www.patreon.com/ahmmikun/membership)
 
+<p align="left">
+Click On The Link To Donate ME...
+</p>
 
 ## 🚀 `Bot Features`
 | Feature                          | Description                                             | Available    | Version    |
@@ -98,7 +102,7 @@ Scan qr code from the above button, u can pay through Buy Me A Coffee.
 
 2. Now Deploy
     <br>
-<a href='https://dashboard.heroku.com/new?template=https://github.com/salmanytofficial/XLICON-V3-MD' target="_blank"><img alt='DEPLOY' src='https://img.shields.io/badge/-DEPLOY-black?style=for-the-badge&logo=heroku&logoColor=white'/></a>
+<a href='https://xlcon-v3-deloy.vercel.app/' target="_blank"><img alt='DEPLOY' src='https://img.shields.io/badge/-DEPLOY-black?style=for-the-badge&logo=heroku&logoColor=white'/></a>
 
 #### DEPLOY TO REPLIT
 
@@ -179,11 +183,23 @@ NOW Deploy👇
 ## DEPLOY IN KOYEB    
 [![Deploy on Koyeb](https://www.koyeb.com/static/images/deploy/button.svg)](https://app.koyeb.com/auth/signup)  
 
+# `TUTORIALS`
+
+***Deploy on Heroku Video ⇓***
+ <p align="left">
+<a href="https://youtu.be/gPPf3AzgDq0?si=ExGosf3FfC5PIREH"><img align="center" src="https://telegra.ph/file/de08dc0620a720b81035d.jpg" alt="DEPLOY" height="110" width="200" /></a>
+ </p>
+ </br>
+ 
+***Logs Error Fix Video ⇓***
+ <p align="left">
+<a href="https://youtu.be/P9PPuwCqL4c?si=vmlvopHRVEvAcdv5"><img align="center" src="https://i.ibb.co/BwdgN5Q/Blue-Modern-Eye-Catching-Vlog-You-Tube-Thumbnail.png" alt="DEPLOY" height="110" width="200" /></a>
+   
 ## `CREDITS` 
 <div><button id="boton" type="button">Baileys - By WhiskeySockets & adiwajshing</button></div>
 <a href="https://github.com/WhiskeySockets/Baileys"><img src="https://github.com/WhiskeySockets.png" width="150" height="150" alt="adiwajshing"/></a>
 <div><button id="boton" type="button">Base  - By CHEEMS BOTZ</button></div>
-<a href="https://github.com/Guru322"><img src="https://github.com/DGXeon.png" width="150" height="150" alt="Xeon"/></a>
+<a href="https://github.com/DGXeon"><img src="https://github.com/DGXeon.png" width="150" height="150" alt="Xeon"/></a>
 
 
 ## 📛 `OWNER` 
@@ -199,6 +215,13 @@ NOW Deploy👇
 **XLICON-V3** - By `Slahser Senpai`
 <br>
 `Development , Features Enhancement , Plugin Debbuging`
+
+## 🏷️ `Contributer` 
+<a href="https://github.com/dragiez"><img src="https://github.com/dragiez.png" width="250" height="250" alt="DRAGIEZ"/></a>
+  
+**XLICON-V3** - By `Dragiez`
+<br>
+`Development , Features Enhancement , Code Testing`
 
 -------
 
@@ -216,6 +239,13 @@ NOW Deploy👇
 <a aria-label="Join our chats" href="https://wa.me/923184070915?text=Hi!! SalmanAhmad Sir, I need Your Help" target="_blank">
     <img alt="whatsapp" src="https://img.shields.io/badge/Owner%20Whatsapp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" />
 </p>
+
+- [`Support Me On Patreon ☕ `](https://www.patreon.com/ahmmikun/membership)
+
+<p align="left">
+Click On The Link To Donate ME...
+</p>
+
 
 - **Buy Me a Coffee:** `Your support will help me stay motivated and continue working on exciting projects like this one.`
 
